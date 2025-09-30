@@ -43,7 +43,7 @@ Protocols
 
 {{% resource_link 9819abf8-1f69-9cee-ff20-5d01e3e4ff79 "Cleaning Contaminated Worm Stocks (PDF)" %}}
 
-Molecular Cloning using the Gibson Assembly Method: See the descriptions and protocols in the {{% resource_link "cafdbaf8-0dcb-45e8-b1b5-36e6445316f1" "Gibson Assembly Cloning Kit Manual (PDF - 1.3MB)" %}}, and the {{% resource_link "c3109de8-928e-44cc-80ec-23a270e1b772" "Gibson Assembly cloning kit (NEB E5510S)" %}}, from New England Biolabs.
+Molecular Cloning using the Gibson Assembly Method: See the descriptions and protocols in the [Gibson Assembly Cloning Kit Manual (PDF - 1.3MB)](https://www.neb.com/~/media/Catalog/All-Products/E13C03EA3FE14F12BEA0A0ECE9490093/Datacards%20or%20Manuals/ManualE5510.pdf), and the [Gibson Assembly cloning kit (NEB E5510S)](https://www.neb.com/products/e5510-gibson-assembly-cloning-kit#tabselect0), from New England Biolabs.
 
 {{% resource_link b6d9befe-cddf-c6f5-1fc9-8157769dceaa "General Guidelines for Primer Design (PDF)" %}}
 
@@ -51,8 +51,8 @@ Molecular Cloning using the Gibson Assembly Method: See the descriptions and pro
 
 {{% resource_link daa5608c-dcd0-0970-51d3-ca20ffb860ca "Making Bacterial Glycerol Stocks (PDF)" %}}
 
-Real-time PCR: This protocol draws from the following sources: Fraga, D., Meulia, T., et al. {{% resource_link "9a193ff6-9342-48eb-a76a-54ee36288842" "Unit 10.3 Real-Time PCR" %}}. _Current Protocols, Essential Laboratory Techniques_. Wiley Online Library, 2014.
+Real-time PCR: This protocol draws from the following sources: Fraga, D., Meulia, T., et al. [Unit 10.3 Real-Time PCR](http://dx.doi.org/10.1002/9780470089941.et1003s08). _Current Protocols, Essential Laboratory Techniques_. Wiley Online Library, 2014.
 
 [Real-Time qRT-PCR](http://www.ncbi.nlm.nih.gov/genome/probe/doc/TechQPCR.shtml ). National Center for Biotechnology Information.
 
-Analyzing Real-time PCR Data by the Comparative CT Method: This protocol is described in Schmittgen, T. D., and K. J. Livak. "{{% resource_link "545a4fc9-b9a8-4701-8450-5ce108b8aeae" "Analyzing Real-time PCR Data by the Comparative CT Method" %}}." _Nature Protocols_ 3, no. 6 (2008): 1101–8.
+Analyzing Real-time PCR Data by the Comparative CT Method: This protocol is described in Schmittgen, T. D., and K. J. Livak. "[Analyzing Real-time PCR Data by the Comparative CT Method](http://dx.doi.org/10.1038/nprot.2008.73)." _Nature Protocols_ 3, no. 6 (2008): 1101–8.

@@ -15,11 +15,11 @@ Lectures & Labs: 5 sessions / week, 4 hours / session
 
 ## Prerequisites
 
-The course assumes no prior research background, but students should have taken {{% resource_link "cf77a225-59d5-4de1-98e3-e30b7a3ad06f" "*7.02 Experimental Biology & Communication*" %}} or its equivalent and be comfortable with the principles and concepts covered in {{% resource_link "00a03759-4738-4df6-a6d8-63928528e14c" "*7.03 Genetics*" %}}.
+The course assumes no prior research background, but students should have taken [*7.02 Experimental Biology & Communication*](https://dspace.mit.edu/handle/1721.1/152546) or its equivalent and be comfortable with the principles and concepts covered in [*7.03 Genetics*](https://ocw.mit.edu/courses/7-03-genetics-fall-2004/).
 
 ## Course Description
 
-This project-based laboratory course provides students with in-depth experience in experimental molecular genetics, using modern methods of molecular biology and genetics to conduct original research. The course is geared towards students (including sophomores) who have a strong interest in a future career in biomedical research. This semester will focus on chemical genetics using *Caenorhabditis elegans* (*C. elegans)* as a model system. Students will gain experience in research rationale and methods, as well as training in the planning, execution, and communication of experimental biology. Frontier techniques currently widely used in modern biology, such as omics-type experiments and bioinformatics, will be integrated into the research projects carried out by the students during this semester. The course may serve as a bridge for students who have taken {{% resource_link "cf77a225-59d5-4de1-98e3-e30b7a3ad06f" "*7.02*" %}} {{% resource_link "cf77a225-59d5-4de1-98e3-e30b7a3ad06f" "*Experimental Biology & Communication*" %}} but plan on pursuing {{% resource_link "7c5d20ff-1b7e-4c4c-b75e-6aaf03aa1170" "UROP opportunities" %}}. In addition, we feel that students who are currently engaged in UROP experiences may also benefit strongly from the research instruction in this course.
+This project-based laboratory course provides students with in-depth experience in experimental molecular genetics, using modern methods of molecular biology and genetics to conduct original research. The course is geared towards students (including sophomores) who have a strong interest in a future career in biomedical research. This semester will focus on chemical genetics using *Caenorhabditis elegans* (*C. elegans)* as a model system. Students will gain experience in research rationale and methods, as well as training in the planning, execution, and communication of experimental biology. Frontier techniques currently widely used in modern biology, such as omics-type experiments and bioinformatics, will be integrated into the research projects carried out by the students during this semester. The course may serve as a bridge for students who have taken [*7.02*](https://dspace.mit.edu/handle/1721.1/152546) [*Experimental Biology & Communication*](https://dspace.mit.edu/handle/1721.1/152546) but plan on pursuing [UROP opportunities](http://web.mit.edu/urop/). In addition, we feel that students who are currently engaged in UROP experiences may also benefit strongly from the research instruction in this course.
 
 ## Format
 
@@ -34,7 +34,7 @@ Outside of classroom and laboratory time, students are expected to work on readi
 
 ## Written and Oral Communications Skills
 
-This is a CI-M ({{% resource_link "2bdeaed2-0ece-42e1-bb3b-600c1cbea845" "Communication Intensive in the Major" %}}) course, and thus teaches students how to write and communicate within the field of biology. An important component of this course is the development of effective communication skills. You will describe your experiments and discuss your results both orally and in your notebook. During the term, you will be responsible for:
+This is a CI-M ([Communication Intensive in the Major](http://web.mit.edu/commreq/faculty%20ci-m.html)) course, and thus teaches students how to write and communicate within the field of biology. An important component of this course is the development of effective communication skills. You will describe your experiments and discuss your results both orally and in your notebook. During the term, you will be responsible for:
 
 - Discussing your experimental data in group lab meetings,
 - Presenting a journal article for discussion,

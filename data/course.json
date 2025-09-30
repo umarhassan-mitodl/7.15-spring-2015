@@ -44,6 +44,7 @@
     "website": "7-15-experimental-molecular-genetics-spring-2015"
   },
   "course_title": "Experimental Molecular Genetics",
+  "hide_download": true,
   "course_description": "This project-based laboratory course provides students with in-depth experience in experimental molecular genetics, using modern methods of molecular biology and genetics to conduct original research. The course is geared towards students (including sophomores) who have a strong interest in a future career in biomedical research. This semester will focus on chemical genetics using _Caenorhabditis elegans_ as a model system. Students will gain experience in research rationale and methods, as well as training in the planning, execution, and communication of experimental biology.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.  \n  \n[Legal Notice](/terms/)\n",
   "department_numbers": [
     "7"
@@ -54,6 +55,7 @@
     "content": "3588f516-4f01-b530-b28a-afac6deffc47",
     "website": "7-15-experimental-molecular-genetics-spring-2015"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Presentation Assignments",
     "Written Assignments"
