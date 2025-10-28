@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains descriptions of the required assignments for the
   course, including the lab notebook, oral presentations, and written assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
